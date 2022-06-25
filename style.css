@@ -1,0 +1,113 @@
+#backimage{
+    background-image: url(../index.html/assets/img/beach-7.jpeg);
+    width: 630px;
+    height: 420px;
+    margin-top: 90px;
+}
+
+#ing{
+    font-size: 9px;
+    margin: 7px;
+    color: beige;
+    margin-top: 20px;
+}
+#logo{
+    width: 80px;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+#asa{
+    color: beige;
+    font-size: 10px;
+    margin-left: 40px;
+}
+#com{
+    color: rgb(201, 195, 195);
+    font-size: 10px;
+}
+section{
+    margin: 3px;
+    margin-top: 70px;
+}
+#agora{
+    font-size: 40px;
+    color: beige;
+}
+#viver{
+    font-size: 40px;
+    color: white;
+    font: bold;
+}
+#turis{
+    font-size: 10px;
+    margin-left: 140px;
+    color: rgb(220, 207, 207);
+}
+.btn{
+    color: white;
+    background: none;
+    height: 20px;
+    width: 80px;
+    text-align: center;
+    object-position: center;
+    margin: 2px;
+    border-radius: 10px;
+    margin-top: 70px;
+    font-size: 70%;
+    margin-bottom: 20px;
+    
+}
+#buscar{
+    background: rgba(255, 217, 0, 0.797);
+    border-radius: 12px;
+    width: 100px;
+    
+}
+#promo{
+    text-align: center;
+    font-size: 30px;
+}
+#quer{
+    font-size: 14px;
+    text-align: center;
+    margin-top: 2px;
+}
+#sections{
+    display: flex;
+}
+#img-beach{
+    
+    width: 210px;
+    height: 250px;
+    border-radius: 20px;
+}
+
+
+#veja{
+
+    background: rgb(255, 217, 0);
+    border-radius: 12px;
+    width: 100px;
+    margin-top: 50px;
+    font-size: 12px;
+    
+}
+.container{
+    position: relative;
+    
+    color: white;
+}
+.bottom-left{
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+#dest{
+   font-size: 30px; 
+}
+#pac{
+  font-size: 12px;  
+}
+#vez{
+    font-size: 12px;
+}
